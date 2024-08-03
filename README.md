@@ -13,11 +13,10 @@ In my free time I work on:
 Looking to start on these projects:
 
 - iCloud replacement
-
+- eCommerce site
   
 Other git profile @<a href="https://github.com/0xanjing">0xAnjing<a/> which is more focused on crypto tech/web3
   
-<br/>
 <br/>
 <br/>
 <br/>
