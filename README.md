@@ -7,7 +7,7 @@ I didn't choose the software developer life, the software developer life chose m
 In my free time I work on:
 
 - Writing code challenges by The Coding Sloth
-- Flashing my Nolltronics stenography keyboard (Ecosteno)
+- Keymapping my Nolltronics EcoSteno stenography keyboard: [repo](https://github.com/afiqzudinhadi/EcoSteno-Firmware/tree/main)
 - Personal resume/CV site
   
 Looking to start on these projects:
