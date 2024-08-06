@@ -20,7 +20,6 @@ Other git profile @<a href="https://github.com/0xanjing">0xAnjing<a/> which is m
 
 <br>
 <br>
-<br>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=afiqzudinhadi&hide_longest_streak=true&hide_current_streak=true&card_width=300" alt="afiqzudinhadi"/>
 
 Wise quote from the [Goblin Lord](https://www.youtube.com/c/piratesoftware)
