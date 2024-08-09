@@ -6,7 +6,7 @@ Wise quote from the [Goblin Lord](https://www.youtube.com/c/piratesoftware)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=afiqzudinhadi&show_icons=true&locale=en&layout=donut-vertical&card_width=300" alt="afiqzudinhadi" />
 
-I didn't choose the software developer life, the software developer life chose me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&multiline=true&width=435&lines=I+didn't+choose+the+software+developer+life%2C;the+software+developer+life+chose+me)](https://git.io/typing-svg)
 
 In my free time I work on:
 
