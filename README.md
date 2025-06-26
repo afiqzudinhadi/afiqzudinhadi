@@ -1,7 +1,5 @@
 # Hi, I'm Afiq
 
-Wise quote from the [Goblin Lord](https://www.youtube.com/c/piratesoftware)
-
 ![](https://github.com/afiqzudinhadi/afiqzudinhadi/blob/main/assets/Programming1920p%2060fps.gif?raw=true)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=afiqzudinhadi&show_icons=true&locale=en&layout=donut-vertical&card_width=300" alt="afiqzudinhadi" />
