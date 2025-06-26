@@ -1,7 +1,5 @@
 # Hi, I'm Afiq
 
-![](https://github.com/afiqzudinhadi/afiqzudinhadi/blob/main/assets/Programming1920p%2060fps.gif?raw=true)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=afiqzudinhadi&show_icons=true&locale=en&layout=donut-vertical&card_width=300" alt="afiqzudinhadi" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&multiline=true&width=435&lines=I+didn't+choose+the+software+developer+life%2C;the+software+developer+life+chose+me)](https://git.io/typing-svg)
